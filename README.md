@@ -1,4 +1,10 @@
- 
+Pijlight KDE is forked from Midnight KDE.
+
+It will be customized, improved and extendet.
+__________
+Original readme.md : 
+__________
+
 <p align="center">
   <img src="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/preview.1.png" alt="Preview Midnight KDE"/>
   <a href="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/preview.2.png"><img src="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/thumbs/mini.preview.2.png" alt="Preview Midnight KDE"/></a> <a href="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/preview.3.png"><img src="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/thumbs/mini.preview.3.png" alt="Preview Midnight KDE"/></a> <a href="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/preview.4.png"><img src="https://raw.githubusercontent.com/Rokin05/midnight-kde/master/INFO/screenshots/thumbs/mini.preview.4.png" alt="Preview Midnight KDE"/></a>
