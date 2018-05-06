@@ -1,6 +1,5 @@
-Pijlight KDE is forked from Midnight KDE.
+PijNight KDE is forked from Midnight KDE.
 
-It will be customized, improved and extendet.
 __________
 Original readme.md : 
 __________
